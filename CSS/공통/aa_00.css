@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+article {
+    width: 100%;
+    margin: 0px auto;
+    padding: 0;
+    color: black;
+    line-height: 2;
+    overflow: auto;
+    font-size: 14px;
+    min-width: 460px;
+    max-width: 738px;
+    box-sizing: border-box;
+    font-family: dotum, ms gothic, ms pgothic, ms ui gothic, arial unicode ms, sans-serif;
+    }
+header {
+margin: 0;
+padding: 0;
+font-family: malgun gothic;
+text-align: center;
+}
+ul {
+margin: 0 !important;
+padding: 0 !important;
+list-style: none;
+}
+li {
+margin: 0;
+padding: 0;
+line-height: 2;
+}
+    li span {
+    display: block;    
+    padding: 0 0 0 11px;
+    text-indent: -11px; 
+    font-size: 12px;
+    }
+    .li16_0101 {
+    margin: 21px 0 0 0 !important;    
+    padding: 0px 0px 0px 22px !important;
+    text-indent: -22px !important;
+    }
+    .li14_0101 {
+    margin: 21px 0 0 0 !important;    
+    padding: 0px 0px 0px 19px !important;
+    text-indent: -19px !important;
+    }
+    .li14_0201 {
+    margin: 7px 0 0 0 !important;    
+    padding: 0px 0px 0px 19px !important;
+    text-indent: -19px !important;
+    }
+    .li14_0202 {
+    margin: 7px 0 0 0 !important;    
+    padding: 0px 0px 0px 10px !important;
+    text-indent: -10px !important;
+    }
+figure {
+margin: 0;
+padding: 0;
+}
+table {
+margin: 7px 0px 0px;
+padding: 0;
+line-height: 1.5;
+width: 100%;
+text-align: right;
+text-indent: 0px;
+font-family: gulim;
+font-size: 12px;
+border-collapse: collapse;
+table-layout: fixed;
+border: 1px solid black;
+border-image: none;
+}
+col {
+border-left-color: black;
+border-left-width: 1px;
+border-left-style: solid;
+}
+    .col_dub_l {
+    border-left-color: black;
+    border-left-width: 1px;
+    border-left-style: solid;        
+    }
+tr {
+border-top-color: black;
+border-top-width: 1px;
+border-top-style: solid;
+}
+th {
+text-align: center;
+}    
+td {
+padding: 0 2px;
+}
+h1 {
+margin: 0;
+padding: 0;
+font-size: 24px;
+}
+    .h1_24 {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: malgun gothic;
+    }
+h2 {
+margin: 28px 0 0 0;
+padding: 0;
+font-size: 18px;
+}
+    .h2_16 {
+    font-size: 16px;    
+    font-weight: bold;
+    font-family: malgun gothic;
+    }
+    .h2_18 {
+    font-size: 18px;    
+    font-weight: bold;
+    font-family: malgun gothic;
+    }
+p {
+margin: 0;
+padding: 0;
+}
+    .p_li14_0201 {
+    margin: 4px 0px 0px;
+    padding: 0px 0px 0px 19px;
+    text-indent: -19px;    
+    }
+    .sml_make {
+    margin: 0px;
+    padding: 0;
+    text-align: right;
+    font-size: 14px;
+    font-weight: bold;
+    display: block;
+    }
+
